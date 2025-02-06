@@ -1,0 +1,14 @@
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\3\terceiroDesafio\terceiroDesafio\bin\Debug\net9.0\terceiroDesafio.exe
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\3\terceiroDesafio\terceiroDesafio\bin\Debug\net9.0\terceiroDesafio.deps.json
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\3\terceiroDesafio\terceiroDesafio\bin\Debug\net9.0\terceiroDesafio.runtimeconfig.json
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\3\terceiroDesafio\terceiroDesafio\bin\Debug\net9.0\terceiroDesafio.dll
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\3\terceiroDesafio\terceiroDesafio\bin\Debug\net9.0\terceiroDesafio.pdb
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\3\terceiroDesafio\terceiroDesafio\obj\Debug\net9.0\terceiroDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\3\terceiroDesafio\terceiroDesafio\obj\Debug\net9.0\terceiroDesafio.AssemblyInfoInputs.cache
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\3\terceiroDesafio\terceiroDesafio\obj\Debug\net9.0\terceiroDesafio.AssemblyInfo.cs
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\3\terceiroDesafio\terceiroDesafio\obj\Debug\net9.0\terceiroDesafio.csproj.CoreCompileInputs.cache
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\3\terceiroDesafio\terceiroDesafio\obj\Debug\net9.0\terceiroDesafio.dll
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\3\terceiroDesafio\terceiroDesafio\obj\Debug\net9.0\refint\terceiroDesafio.dll
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\3\terceiroDesafio\terceiroDesafio\obj\Debug\net9.0\terceiroDesafio.pdb
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\3\terceiroDesafio\terceiroDesafio\obj\Debug\net9.0\terceiroDesafio.genruntimeconfig.cache
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\3\terceiroDesafio\terceiroDesafio\obj\Debug\net9.0\ref\terceiroDesafio.dll

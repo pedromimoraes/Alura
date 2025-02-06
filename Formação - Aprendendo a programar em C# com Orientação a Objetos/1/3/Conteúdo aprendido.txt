@@ -1,0 +1,5 @@
+Aprendemos como utilizar uma estrutura de dados muito importante e usada que são as listas;
+
+Instanciamos e adicionamos elementos na lista com métodos especiais como .Add, e acrescentamos músicas em nossa aplicação;
+
+Exibimos no console as músicas registradas da lista com 2 laços de repetição: o for e o foreach.

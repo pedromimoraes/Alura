@@ -1,0 +1,5 @@
+Desenvolvemos um modelo de música com os seguintes atributos: nome, artista, gênero, duração e disponibilidade. Utilizamos o conceito de classes e atributos para representar essas informações;
+
+Criamos um novo tipo de variável chamada Música e repetimos o processo de atribuir valores para seus atributos. Novamente, utilizamos o comando Console.WriteLine para exibir as informações da segunda música no console;
+
+Atribuímos um método chamado ExibirFichaTecnica() com retorno void. Esse método foi criado para exibir a ficha técnica da música, ou seja, todas as informações sobre a música são exibidas no console quando chamamos esse método.

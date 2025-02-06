@@ -1,0 +1,5 @@
+Criamos um dicionário que é uma coleção de pares chave-valor, onde cada chave é única e associada a um valor correspondente. É uma estrutura de dados útil para armazenar informações relacionadas que precisam ser acessadas com base em uma chave específica;
+
+Aprendemos que no dicionário, as chaves e os valores podem ser de qualquer tipo, desde que a chave seja única. Para acessar o valor de um determinado par chave-valor, basta usar a chave correspondente;
+
+Desenvolvemos um método com retorno no C# que serve para retornar um valor ou objeto específico para o chamador do método.

@@ -1,0 +1,5 @@
+Corrigimos uma vulnerabilidade do sistema que permitia alterar o valor de um atributo, ferindo a regra de negócio da aplicação criando métodos de leitura e escrita (get e set);
+
+Criamos uma property no C#, que é uma boa prática de programação porque permite encapsular o acesso aos atributos de uma classe, fornecendo controle, validação e a possibilidade de adicionar comportamentos adicionais ao acesso desses atributos;
+
+Alteramos o método get de uma property no C# para adicionar lógica personalizada antes de retornar o valor do atributo correspondente.

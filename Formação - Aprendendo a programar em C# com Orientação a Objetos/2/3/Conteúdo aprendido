@@ -1,0 +1,5 @@
+Criamos um modelo para o album como uma classe, reforçando a prática de manter cada classe em seu arquivo, e foram abordados os métodos AdicionarMusica e DuracaoTotal, mostrando como adicionar e listar as músicas.
+
+Criamos uma lista de músicas como campo privado da classe, modificou-se o método AdicionarMusica utilizando o método "Add" da lista para adicionar músicas, alterou-se o método DuracaoTotal utilizando o método "Sum" da lista para calcular a duração total das músicas e foram feitos testes relacionando músicas ao álbum.
+
+Exibimos a lista de músicas do álbum, mostrando o nome de cada música, além de exibir a duração total do álbum através do método ExibirMusicasDoAlbum.

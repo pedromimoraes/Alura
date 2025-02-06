@@ -1,0 +1,5 @@
+Criamos variáveis de tipos diferentes como string e int para armazenar diferentes tipos de dados;
+
+Desenvolvemos o menu personalizado exibindo as opções da nossa aplicação e criamos uma forma na qual o usuário pode escolher a ação que deseja;
+
+Aprendemos como utilizar de forma prática estruturas condicionais no C#, o que possibilita que nosso programa execute diferentes comandos de acordo com as condições estabelecidas pelas entradas de usuários.

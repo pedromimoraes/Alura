@@ -1,0 +1,9 @@
+Neste curso de C#, todas as barreiras foram vencidas e você aprofundou ainda mais seus conhecimentos em programação orientada a objetos, estruturas de dados, algoritmos e muito mais.
+
+Você aprendeu desde a instalação do ambiente de desenvolvimento até a criação de programas completos com telas de interação.
+
+E o melhor de tudo é que agora você faz parte da comunidade de pessoas desenvolvedoras C# e tem acesso a um vasto ecossistema de ferramentas, documentação e suporte técnico.
+
+Nossa… Quanta coisa legal!
+
+"A persistência é o caminho do êxito." (Charles Chaplin)

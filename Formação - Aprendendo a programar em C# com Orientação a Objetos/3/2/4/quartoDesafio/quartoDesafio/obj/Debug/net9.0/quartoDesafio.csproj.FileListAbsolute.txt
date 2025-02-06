@@ -1,0 +1,14 @@
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\2. Nova classe Avaliacao\4\quartoDesafio\quartoDesafio\obj\Debug\net9.0\quartoDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\2. Nova classe Avaliacao\4\quartoDesafio\quartoDesafio\obj\Debug\net9.0\quartoDesafio.AssemblyInfoInputs.cache
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\2. Nova classe Avaliacao\4\quartoDesafio\quartoDesafio\obj\Debug\net9.0\quartoDesafio.AssemblyInfo.cs
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\2. Nova classe Avaliacao\4\quartoDesafio\quartoDesafio\obj\Debug\net9.0\quartoDesafio.csproj.CoreCompileInputs.cache
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\2. Nova classe Avaliacao\4\quartoDesafio\quartoDesafio\bin\Debug\net9.0\quartoDesafio.exe
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\2. Nova classe Avaliacao\4\quartoDesafio\quartoDesafio\bin\Debug\net9.0\quartoDesafio.deps.json
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\2. Nova classe Avaliacao\4\quartoDesafio\quartoDesafio\bin\Debug\net9.0\quartoDesafio.runtimeconfig.json
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\2. Nova classe Avaliacao\4\quartoDesafio\quartoDesafio\bin\Debug\net9.0\quartoDesafio.dll
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\2. Nova classe Avaliacao\4\quartoDesafio\quartoDesafio\bin\Debug\net9.0\quartoDesafio.pdb
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\2. Nova classe Avaliacao\4\quartoDesafio\quartoDesafio\obj\Debug\net9.0\quartoDesafio.dll
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\2. Nova classe Avaliacao\4\quartoDesafio\quartoDesafio\obj\Debug\net9.0\refint\quartoDesafio.dll
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\2. Nova classe Avaliacao\4\quartoDesafio\quartoDesafio\obj\Debug\net9.0\quartoDesafio.pdb
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\2. Nova classe Avaliacao\4\quartoDesafio\quartoDesafio\obj\Debug\net9.0\quartoDesafio.genruntimeconfig.cache
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\2. Nova classe Avaliacao\4\quartoDesafio\quartoDesafio\obj\Debug\net9.0\ref\quartoDesafio.dll

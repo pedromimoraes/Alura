@@ -1,0 +1,7 @@
+Preparamos o ambiente de desenvolvimento (Visual Studio) no Windows, Mac e Linux para criar programas com C# na plataforma .Net;
+
+Configuramos do ambiente para desenvolvimento em C# e uma aplicação baseada no console;
+
+Entendemos o conceito de linguagem fortemente tipada e a importância de declarar o tipo da variável que desejamos trabalhar em uma aplicação;
+
+Utilizamos do comando Console.WriteLine para exibir informações na tela e ver o programa que desenvolvemos sendo executado.

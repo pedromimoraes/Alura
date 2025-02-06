@@ -1,0 +1,273 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Mos",
+				"MostrarAMesaDoPedido"
+			],
+			[
+				"Ad",
+				"AdicionarPedido"
+			],
+			[
+				"M",
+				"MostrarMesasDisponiveis"
+			],
+			[
+				"rest",
+				"restaurante"
+			],
+			[
+				"N",
+				"Numero"
+			],
+			[
+				"Adici",
+				"AdicionarDisciplina"
+			],
+			[
+				"Al",
+				"AlunosMatriculados"
+			],
+			[
+				"_l",
+				"_disciplinasLecionadas"
+			],
+			[
+				"_lis",
+				"_disciplinasLecionadas"
+			],
+			[
+				"_",
+				"_alunosMatriculados"
+			],
+			[
+				"prod",
+				"produtosEmEstoque"
+			],
+			[
+				"produ",
+				"produtosEmEstoque"
+			],
+			[
+				"n",
+				"NumeroDaConta"
+			],
+			[
+				"Nu",
+				"NumeroDaConta"
+			],
+			[
+				"perg",
+				"perguntasERespostas"
+			],
+			[
+				"pe",
+				"perguntasERespostas"
+			],
+			[
+				"esto",
+				"estoqueDeProdutos"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminus",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 364.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Pedro/Documents/CSharp/Alura/Formação - Aprendendo a programar em C# com Orientação a Objetos/2. Aplicando a Orientação a Objetos/4. Construtor de bandas/2/segundoDesafio/segundoDesafio/Program.cs",
+		"/C/Users/Pedro/Documents/CSharp/Alura/Formação - Aprendendo a programar em C# com Orientação a Objetos/2. Aplicando a Orientação a Objetos/4. Construtor de bandas/1/primeiroDesafio/primeiroDesafio/Program.cs",
+		"/C/Users/Pedro/Documents/CSharp/Alura/Formação - Aprendendo a programar em C# com Orientação a Objetos/2. Aplicando a Orientação a Objetos/3. Integrando classes e definindo relacionamentos/5/quintoDesafio/quintoDesafio/Program.cs",
+		"/C/Users/Pedro/Documents/CSharp/Alura/Formação - Aprendendo a programar em C# com Orientação a Objetos/2. Aplicando a Orientação a Objetos/3. Integrando classes e definindo relacionamentos/4/quartoDesafio/Program.cs",
+		"/C/Users/Pedro/Documents/CSharp/Formação - Aprendendo a programar em C# com Orientação a Objetos/2. Aplicando a Orientação a Objetos/3. Integrando classes e definindo relacionamentos/4/quartoDesafio/quartoDesafio/Program.cs",
+		"/C/Users/Pedro/Documents/CSharp/Formação - Aprendendo a programar em C# com Orientação a Objetos/2. Aplicando a Orientação a Objetos/2. Métodos de acesso e propriedades/2/segundoDesafio/segundoDesafio/Program.cs",
+		"/C/Users/Pedro/Documents/CSharp/Formação - Aprendendo a programar em C# com Orientação a Objetos/2. Aplicando a Orientação a Objetos/3. Integrando classes e definindo relacionamentos/1/primeiroDesafio/primeiroDesafio/Program.cs",
+		"/C/Users/Pedro/Documents/CSharp/Formação - Aprendendo a programar em C# com Orientação a Objetos/2. Aplicando a Orientação a Objetos/3. Integrando classes e definindo relacionamentos/2/segundoDesafio/segundoDesafio/Program.cs",
+		"/C/Users/Pedro/Documents/CSharp/Formação - Aprendendo a programar em C# com Orientação a Objetos/2. Aplicando a Orientação a Objetos/3. Integrando classes e definindo relacionamentos/terceiroDesafio/Program.cs",
+		"/C/Users/Pedro/Documents/CSharp/Formação - Aprendendo a programar em C# com Orientação a Objetos/2. Aplicando a Orientação a Objetos/3. Integrando classes e definindo relacionamentos/Conteúdo aprendido",
+		"/C/Users/Pedro/Documents/CSharp/Formação - Aprendendo a programar em C# com Orientação a Objetos/2. Aplicando a Orientação a Objetos/2. Métodos de acesso e propriedades/4/quartoDesafio/quartoDesafio/Program.cs",
+		"/C/Users/Pedro/Documents/CSharp/Formação - Aprendendo a programar em C# com Orientação a Objetos/2. Aplicando a Orientação a Objetos/2. Métodos de acesso e propriedades/3/terceiroDesafio/terceiroDesafio/Program.cs",
+		"/C/Users/Pedro/Documents/CSharp/Formação - Aprendendo a programar em C# com Orientação a Objetos/2. Aplicando a Orientação a Objetos/1. Classe e método no C#/4/quartoDesafio/quartoDesafio/Program.cs",
+		"/C/Users/Pedro/Documents/CSharp/Formação - Aprendendo a programar em C# com Orientação a Objetos/2. Aplicando a Orientação a Objetos/2. Métodos de acesso e propriedades/3/terceiroDesafio/terceiroDesafio.cs",
+		"/C/Users/Pedro/Documents/CSharp/Formação - Aprendendo a programar em C# com Orientação a Objetos/2. Aplicando a Orientação a Objetos/1. Classe e método no C#/2/segundoDesafio/segundoDesafio/Program.cs",
+		"/C/Users/Pedro/Documents/CSharp/Formação - Aprendendo a programar em C# com Orientação a Objetos/2. Aplicando a Orientação a Objetos/1. Classe e método no C#/2/segundoDesafio/segundoDesafio.sln",
+		"/C/Users/Pedro/Documents/CSharp/Formação - Aprendendo a programar em C# com Orientação a Objetos/2. Aplicando a Orientação a Objetos/1. Classe e método no C#/2/segundoDesafio/segundoDesafio/segundoDesafio.csproj",
+		"/C/Users/Pedro/Documents/CSharp/Formação - Aprendendo a programar em C# com Orientação a Objetos/1. Criando sua primeira aplicação/4. Dicionários e avaliação de bandas/Desafios/2/segundoDesafio/segundoDesafio/Program.cs",
+		"/C/Users/Pedro/Documents/CSharp/Formação - Aprendendo a programar em C# com Orientação a Objetos/1. Criando sua primeira aplicação/4. Dicionários e avaliação de bandas/Desafios/3/terceiroDesafio/Program.cs",
+		"/C/Users/Pedro/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-settings",
+		"/C/Users/Pedro/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/Default.sublime-keymap",
+		"/C/Users/Pedro/AppData/Roaming/Sublime Text 3/Packages/User/OmniSharpSublime.sublime-settings"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "segundoDesafio.sublime-project.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 519.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,14 @@
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\1\primeiroDesafio\primeiroDesafio\bin\Debug\net9.0\primeiroDesafio.exe
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\1\primeiroDesafio\primeiroDesafio\bin\Debug\net9.0\primeiroDesafio.deps.json
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\1\primeiroDesafio\primeiroDesafio\bin\Debug\net9.0\primeiroDesafio.runtimeconfig.json
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\1\primeiroDesafio\primeiroDesafio\bin\Debug\net9.0\primeiroDesafio.dll
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\1\primeiroDesafio\primeiroDesafio\bin\Debug\net9.0\primeiroDesafio.pdb
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\1\primeiroDesafio\primeiroDesafio\obj\Debug\net9.0\primeiroDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\1\primeiroDesafio\primeiroDesafio\obj\Debug\net9.0\primeiroDesafio.AssemblyInfoInputs.cache
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\1\primeiroDesafio\primeiroDesafio\obj\Debug\net9.0\primeiroDesafio.AssemblyInfo.cs
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\1\primeiroDesafio\primeiroDesafio\obj\Debug\net9.0\primeiroDesafio.csproj.CoreCompileInputs.cache
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\1\primeiroDesafio\primeiroDesafio\obj\Debug\net9.0\primeiroDesafio.dll
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\1\primeiroDesafio\primeiroDesafio\obj\Debug\net9.0\refint\primeiroDesafio.dll
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\1\primeiroDesafio\primeiroDesafio\obj\Debug\net9.0\primeiroDesafio.pdb
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\1\primeiroDesafio\primeiroDesafio\obj\Debug\net9.0\primeiroDesafio.genruntimeconfig.cache
+C:\Users\pedro.moraes\Documents\C#\Estudos\Alura\3. dominando Orientação a Objetos\3. Comportamentos comuns aos menus\1\primeiroDesafio\primeiroDesafio\obj\Debug\net9.0\ref\primeiroDesafio.dll
