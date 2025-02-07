@@ -1,0 +1,15 @@
+/mnt/c/Users/pedro.moraes/Documents/C#/Estudos/Alura/Formação - Aprendendo a programar em C# com Orientação a Objetos/3/3/4/quartoDesafio/bin/Debug/net9.0/quartoDesafio
+/mnt/c/Users/pedro.moraes/Documents/C#/Estudos/Alura/Formação - Aprendendo a programar em C# com Orientação a Objetos/3/3/4/quartoDesafio/bin/Debug/net9.0/quartoDesafio.deps.json
+/mnt/c/Users/pedro.moraes/Documents/C#/Estudos/Alura/Formação - Aprendendo a programar em C# com Orientação a Objetos/3/3/4/quartoDesafio/bin/Debug/net9.0/quartoDesafio.runtimeconfig.json
+/mnt/c/Users/pedro.moraes/Documents/C#/Estudos/Alura/Formação - Aprendendo a programar em C# com Orientação a Objetos/3/3/4/quartoDesafio/bin/Debug/net9.0/quartoDesafio.dll
+/mnt/c/Users/pedro.moraes/Documents/C#/Estudos/Alura/Formação - Aprendendo a programar em C# com Orientação a Objetos/3/3/4/quartoDesafio/bin/Debug/net9.0/quartoDesafio.pdb
+/mnt/c/Users/pedro.moraes/Documents/C#/Estudos/Alura/Formação - Aprendendo a programar em C# com Orientação a Objetos/3/3/4/quartoDesafio/obj/Debug/net9.0/quartoDesafio.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/pedro.moraes/Documents/C#/Estudos/Alura/Formação - Aprendendo a programar em C# com Orientação a Objetos/3/3/4/quartoDesafio/obj/Debug/net9.0/quartoDesafio.AssemblyInfoInputs.cache
+/mnt/c/Users/pedro.moraes/Documents/C#/Estudos/Alura/Formação - Aprendendo a programar em C# com Orientação a Objetos/3/3/4/quartoDesafio/obj/Debug/net9.0/quartoDesafio.AssemblyInfo.cs
+/mnt/c/Users/pedro.moraes/Documents/C#/Estudos/Alura/Formação - Aprendendo a programar em C# com Orientação a Objetos/3/3/4/quartoDesafio/obj/Debug/net9.0/quartoDesafio.csproj.CoreCompileInputs.cache
+/mnt/c/Users/pedro.moraes/Documents/C#/Estudos/Alura/Formação - Aprendendo a programar em C# com Orientação a Objetos/3/3/4/quartoDesafio/obj/Debug/net9.0/quartoDesafio.sourcelink.json
+/mnt/c/Users/pedro.moraes/Documents/C#/Estudos/Alura/Formação - Aprendendo a programar em C# com Orientação a Objetos/3/3/4/quartoDesafio/obj/Debug/net9.0/quartoDesafio.dll
+/mnt/c/Users/pedro.moraes/Documents/C#/Estudos/Alura/Formação - Aprendendo a programar em C# com Orientação a Objetos/3/3/4/quartoDesafio/obj/Debug/net9.0/refint/quartoDesafio.dll
+/mnt/c/Users/pedro.moraes/Documents/C#/Estudos/Alura/Formação - Aprendendo a programar em C# com Orientação a Objetos/3/3/4/quartoDesafio/obj/Debug/net9.0/quartoDesafio.pdb
+/mnt/c/Users/pedro.moraes/Documents/C#/Estudos/Alura/Formação - Aprendendo a programar em C# com Orientação a Objetos/3/3/4/quartoDesafio/obj/Debug/net9.0/quartoDesafio.genruntimeconfig.cache
+/mnt/c/Users/pedro.moraes/Documents/C#/Estudos/Alura/Formação - Aprendendo a programar em C# com Orientação a Objetos/3/3/4/quartoDesafio/obj/Debug/net9.0/ref/quartoDesafio.dll
